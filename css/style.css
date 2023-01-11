@@ -1,12 +1,12 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	background: #180202;
+	overflow: hidden;
 }
 
 .wrapper {
 	width: 100%;
 	min-height: 100%;
-	overflow: hidden;
 }
 
 .button {
